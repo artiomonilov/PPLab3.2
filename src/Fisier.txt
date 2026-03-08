@@ -1,0 +1,5 @@
+Kotlin este un limbaj de programare modern, concis si sigur.
+GraalVM permite rularea codului R, Python si Java impreuna.
+Acesta este un fisier de test pentru laboratorul de paradigme de programare!
+Programare, programare, programare - un cuvant des intalnit in acest laborator.
+Laboratorul trei este interesant.
