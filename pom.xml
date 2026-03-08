@@ -69,7 +69,7 @@
         <dependency>
             <groupId>org.graalvm.polyglot</groupId>
             <artifactId>polyglot</artifactId>
-            <version>23.1.2</version>
+            <version>23.1.1</version>
         </dependency>
         <dependency>
             <groupId>org.jetbrains.kotlin</groupId>
